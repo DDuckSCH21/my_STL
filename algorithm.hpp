@@ -1,0 +1,8 @@
+//
+// Created by Dykk Duck on 11/27/21.
+//
+
+#ifndef FT_CONTAINERS_ALGORITHM_HPP
+#define FT_CONTAINERS_ALGORITHM_HPP
+
+#endif //FT_CONTAINERS_ALGORITHM_HPP
